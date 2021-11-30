@@ -41,3 +41,10 @@ devtools::document()
 
 # va charger tous les documents
 devtools::load_all()
+
+
+### 30 Novembre
+
+library(usethis)
+usethis::use_github()
+#gh_token_help()
